@@ -26,7 +26,7 @@
 
 <div align="center">
   <h1> 🌐 Socials: </h1>
-  <a href="varun1290.myaka@gmail.com">
+  <a href="mailto:varun1290.myaka@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="http://www.linkedin.com/in/varunmyaka">
