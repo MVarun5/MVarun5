@@ -39,7 +39,7 @@
 <br>
 
 
-<h1>GSSoC(24) Badges </h1>
+<h2>GSSoC(24) Badges </h2>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <a href="https://gssoc.girlscript.tech/leaderboard">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
