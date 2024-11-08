@@ -1,4 +1,4 @@
-<h1 align = "center"><b> Hi there! I'm VARUN 👋 </b></h1>
+<h1 align = "center"><i><b> Hi there! I'm VARUN 👋 </b></i></h1>
 
 <div align="center">
   <br>
