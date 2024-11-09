@@ -1,5 +1,13 @@
 <h1 align = "center"><i><b> Hi there! I'm VARUN 👋 </b></i></h1>
 
+
+<h1>🎓 About Me</h1>
+<p>I am Varun Myaka. I'm a passionate Software Developer and final-year BTech student specializing in AI and Machine Learning at MLR Institute of Technology. With hands-on experience in Python, Java, Data Structures, and web technologies, I love building innovative AI solutions.</p>
+
+<p>🔭 I’m currently working on AIML Projects</p>
+<p>👯 I’m looking to collaborate on solving real-world problems through AI-driven solutions and innovative technologies</p>
+
+
 <div align="center">
   <br>
   <h1> 💻 Tech Stack: </h1>
@@ -39,7 +47,7 @@
 <br>
 
 
-<summary><h2>GSSoC(24) Badges </h2></summary>
+<summary><h2>GSSoC(24) Badges 🌟</h2></summary>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <a href="https://gssoc.girlscript.tech/leaderboard">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -50,3 +58,6 @@
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
   </a>
 </div>
+
+
+[![](https://visitcount.itsvg.in/api?id=MVarun5&icon=0&color=0)](https://visitcount.itsvg.in)
