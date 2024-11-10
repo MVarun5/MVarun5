@@ -28,27 +28,11 @@
 <br>
 <br>
 
-.column {
-  float: left;
-  width: 50%;
-  padding: 5px;
-}
 
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
 <h1> 📊 GitHub Stats: </h1>
-<div class="row">
-  <div class="column">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MVarun5&theme=dark&hide_border=false" style="width:50%">
-  </div>
-  <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVarun5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width:50%">
-  </div>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MVarun5&theme=dark&hide_border=false" align="left" height=30% width=50% >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVarun5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height=40% width=45% >
+
 
 <br>
 <br>
