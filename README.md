@@ -68,4 +68,7 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=MVarun5&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MVarun5&repo=MVarun5)
+
 
