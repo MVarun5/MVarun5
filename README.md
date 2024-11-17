@@ -1,7 +1,7 @@
 <h1 align = "center"><i><b> Hi there! I'm VARUN 👋 </b></i></h1>
 <br>
 
-<h1>🎓 About Me</h1>
+<h2>🎓 About Me</h2>
 <p>I am Varun Myaka. I'm a passionate Software Developer and final-year BTech student specializing in AI and Machine Learning at MLR Institute of Technology. With hands-on experience in Python, Java, Data Structures, and web technologies, I love building innovative AI solutions.</p>
 
 <p>🔭 I’m currently working on AIML Projects</p>
@@ -12,7 +12,7 @@
 <br>
 
 
-<h1> 💻 Tech Stack: </h1>
+<h2> 💻 Tech Stack: </h2>
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -28,7 +28,7 @@
 <br>
 
 
-<h1> 📊 GitHub Stats: </h1>
+<h2> 📊 GitHub Stats: </h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MVarun5&theme=blue-green&hide_border=true" align="left" height=30% width=50% >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVarun5&theme=blue-green&show_icons=true&hide_border=true&layout=compact" height=40% width=40% >
 
