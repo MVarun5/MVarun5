@@ -1,7 +1,7 @@
 <h1 align = "center"><i><b> Hi there! I'm VARUN 👋 </b></i></h1>
 <br>
 
-<h2>🎓 About Me :</h2>
+<h2>🎓 About Me </h2>
 <p>I am Varun Myaka. I'm a passionate Software Developer and final-year BTech student specializing in Artificial Intelligence and Machine Learning at MLR Institute of Technology. With hands-on experience in Python, Java, Data Structures, and web technologies, I love building innovative AI solutions.</p>
 
 <p>🔭 I’m currently working on AI-ML Projects</p>
