@@ -29,7 +29,7 @@
 
 
 <h2> 📊 GitHub Stats: </h2>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MVarun5&theme=blue-green&hide_border=true" align="left" height=30% width=50% >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MVarun5&theme=blue-green&hide_border=false" align="left" height=30% width=50% >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVarun5&theme=blue-green&show_icons=true&hide_border=false&layout=compact" height=40% width=40% >
 
 
