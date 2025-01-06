@@ -5,7 +5,7 @@
 <p>I am Varun Myaka. I'm an aspiring software developer and final-year BTech student specializing in Artificial Intelligence and Machine Learning. With hands-on experience in Python, Java, Data Structures, and web technologies, I love building innovative AI solutions. I am deeply committed to leveraging technology to solve real-world problems, with a focus on creating impactful and scalable applications. My recent projects include AI-driven healthcare tools and gesture-controlled virtual systems, showcasing my dedication to innovation.</p>
 
 <p>🔭 I’m currently working on AI-ML Projects.</p>
-<p>👯 I’m looking to collaborate on solving real-world problems through AI-driven solutions and innovative technologies.</p>
+<p>👯 I’m looking to collaborate on solving real-world problems through AI-driven solutions and innovative technologies.</p> 
 
 
 <br>
