@@ -1,6 +1,7 @@
 <h1 align = "center"><i><b> Hi there! I'm VARUN 👋 </b></i></h1>
 <br>
 
+
 <h2>🎓 About Me </h2>
 <p>I am Varun Myaka. I'm an aspiring software developer and final-year BTech student specializing in Artificial Intelligence and Machine Learning. With hands-on experience in Python, Java, Data Structures, and web technologies, I love building innovative AI solutions. I am deeply committed to leveraging technology to solve real-world problems, with a focus on creating impactful and scalable applications. My recent projects include AI-driven healthcare tools and gesture-controlled virtual systems, showcasing my dedication to innovation.</p>
 
