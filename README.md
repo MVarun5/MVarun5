@@ -71,5 +71,4 @@
 <br>
 
 
-<img src="https://visitcount.itsvg.in/api?id=MVarun5&icon=0&color=0" >
 <img src="https://komarev.com/ghpvc/?username=MVarun5&style=for-the-badge" >
