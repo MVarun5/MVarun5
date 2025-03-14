@@ -1,5 +1,5 @@
 <h1 align = "center"><i><b> Hi there! I'm VARUN 👋 </b></i></h1> 
-<br>
+<br> 
 
 
 <h2>🎓 About Me </h2>
