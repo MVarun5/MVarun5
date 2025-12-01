@@ -33,7 +33,6 @@
 <h2> 📊 GitHub Stats: </h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MVarun5&theme=blue-green&hide_border=false" align="left" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVarun5&theme=blue-green&show_icons=true&hide_border=false&layout=compact" >
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br>
